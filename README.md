@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPbabJ7lMibF0CA/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/3oKIPbabJ7lMibF0CA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oKIPbabJ7lMibF0CA">via GIPHY</a></p>
-</div>
+<iframe src="https://giphy.com/embed/3oKIPbabJ7lMibF0CA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oKIPbabJ7lMibF0CA">via GIPHY</a></p>
+
 ### Hi there 👋
 
 
