@@ -10,12 +10,6 @@
   <img src="https://media.giphy.com/media/l0Iycthxm6oRoT2Ao/giphy.gif" width="480" height="480"/>
 </div>
 
-
-
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/3ohhwMMgTN9317KC5i/giphy-downsized-large.gif" width="480" height="480"/>
-</div>
-
 ### Hi there 👋
 
 https://media.giphy.com/media/Wn68w7dXYw97ImY1sc/giphy-downsized-large.gif
