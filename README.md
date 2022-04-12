@@ -1,22 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohhwMMgTN9317KC5i/giphy-downsized-large.gif" width="100%" height="300"/>
-</div>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Wn68w7dXYw97ImY1sc/giphy-downsized-large.gif" width="100%" height="300"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cOzK12kNVHoiOLYX6P/giphy.gif" width="100%" height="300"/>
-</div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/DBWfOnlvqhElw4ONPi/giphy-downsized-large.gif" width="100%" height="300"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/DBWfOnlvqhElw4ONPi/giphy-downsized-large.gif" width="100%" height="300"/>
-</div>
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/l0Iycthxm6oRoT2Ao/giphy.gif" width="480" height="480"/>
