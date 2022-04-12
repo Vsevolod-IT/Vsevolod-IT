@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/l0Iycthxm6oRoT2Ao/giphy.gif" width="480" height="480"/>
 </div>
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/3oKIPbabJ7lMibF0CA/giphy.gif" width="480" height="480"/>
+</div>
+
 ### Hi there 👋
 
 
