@@ -7,9 +7,9 @@
 ### Hello my name is Vsevolod 
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-HTML-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
 
 
 <!--
