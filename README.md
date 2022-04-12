@@ -4,15 +4,11 @@
   <img src="https://media.giphy.com/media/Wn68w7dXYw97ImY1sc/giphy-downsized-large.gif" width="100%" height="300"/>
 </div>
 
+### Hello my name is Vsevolod 
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/l0Iycthxm6oRoT2Ao/giphy.gif" width="480" height="480"/>
-</div>
-
-### Hi there 👋
-
-https://media.giphy.com/media/Wn68w7dXYw97ImY1sc/giphy-downsized-large.gif
 <!--
 **Vsevolod-IT/Vsevolod-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
