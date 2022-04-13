@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/Wn68w7dXYw97ImY1sc/giphy-downsized-large.gif" width="100%" height="300"/>
 </header>
 
-## Hello my name is Vsevolod
+## Hello, my name is Vsevolod
 ## :man_technologist: About Me :
 I'm a Software developer and here are some facts about me
-- Was a trainee at Epam Systems, had the government not developed the war, would have gone to a project job at the company.
-- Very pedantic, I try to do everything in the best way
-- I am constantly developing, one of my goals is to become a full-fledged | **full-stack developer** |
-- English language skills :gb:  **B2** (but I am improving it)
+- I was a trainee at Epam Systems, and if the government hadn't developed the war, I would have gone to a project job at the company.
+- Very pedantic, try to do everything in the best way
+- I am constantly developing. One of my goals is to become a full-fledged | **full-stack developer** |
+- English language skills :gb:  **B2** (on my way of improving it)
 - Learning Spanish :es: I intend to move to Argentina :argentina:
 - :heart: ![](https://img.shields.io/badge/.-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=ff2a6d) ![](https://img.shields.io/badge/.-Vim-informational?style=flat&logo=vim&logoColor=white&color=ff2a6d) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff2a6d)
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
