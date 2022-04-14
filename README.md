@@ -34,7 +34,11 @@ Below I will attach responses of the mentors about my work.
 ##### Technologies that I want to study in the future:
 - ![](https://img.shields.io/badge/.-Spring-informational?style=flat&logo=spring&logoColor=white&color=65dc98) ![](https://img.shields.io/badge/.-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=65dc98)
 
-
+## :medal_sports: Feedback on my work
+|*Narek Avagian* `Software developer in “Epam systems”`  |  
+|---|
+|I have been working with Vsevolod on the same project for almost 5-6 months. During this time I noted that Vsevolod is a highly dedicated employee, who like to be constantly involved in the project activities.I would like to note several Vsevolod’s achievements.He was working with Angular migration and increased level of angular development knowledge. Also he has well-developed GIT skills.Vsevolod was doing his work very quickly and with good quality.He demonstrated the qualities of a strong developer. Vsevolod easily communicates with other team members and customer and also he is able to work in conditions of unclear requirements.I obviously would like to work with Vsevolod on the same project and recommend to hire him because he is excellent team member and very high potential frontend developer.|
+|*📫 How to reach me:* narek_avagian@epam.com  (My GitHub: @obozhe)|
 
 <!--
 **Vsevolod-IT/Vsevolod-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
