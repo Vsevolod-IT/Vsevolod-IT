@@ -14,12 +14,12 @@ I'm a Software developer and here are some facts about me
 - :heart: ![](https://img.shields.io/badge/.-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=ff2a6d) ![](https://img.shields.io/badge/.-Vim-informational?style=flat&logo=vim&logoColor=white&color=ff2a6d) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff2a6d)
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
-## :broken_heart: my pain:
+<!-- ## :broken_heart: my pain:
 I've worked hard for a long time to get a job at Epam Systems. I was able to enroll in evening courses and after them to have an internship. 
 After 5 months of training which I passed with honors and also after passing the exam for software developer I was supposed to become an employee of the company and worked on projects. 
 Unfortunatelly, the state (which I do not support) started a war. Of course, the company had difficulties and therefore I was not able to join the team. For me it is a pain because I've pushed lots of my efforts to achieve my goal. 
 On an internship I worked on a very large project which is used within the company (I have no right to disclose more) therefore my internship experience can be considered as a full-fledged work on a complex project. 
-Below I will attach responses of the mentors about my work.
+Below I will attach responses of the mentors about my work. -->
 
 ## :gear: Hard Skills:
 #### Good and in-depth knowledge:
