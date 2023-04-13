@@ -6,7 +6,7 @@
 
 ## :man_technologist: About Me :
 I'm a Software developer and here are some facts about me
-- I was a trainee at Epam Systems (6 mounth, Angular)
+
 - Very pedantic, try to do everything in the best way
 - I am constantly developing. One of my goals is to become a full-fledged | **full-stack developer** |
 - English language skills :gb:  **B2** (on my way of improving it)
