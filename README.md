@@ -10,7 +10,7 @@ I'm a Software developer and here are some facts about me
 - Very pedantic, try to do everything in the best way
 - I am constantly developing. One of my goals is to become a full-fledged | **full-stack developer** |
 - English language skills :gb:  **B2** (on my way of improving it)
-- Learning Spanish :es: I intend to move to Argentina :argentina:
+
 - :heart: ![](https://img.shields.io/badge/.-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=ff2a6d) ![](https://img.shields.io/badge/.-Vim-informational?style=flat&logo=vim&logoColor=white&color=ff2a6d) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff2a6d)
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
